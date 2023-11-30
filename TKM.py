@@ -1,1 +1,1 @@
-import x10
+import fun
